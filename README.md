@@ -138,6 +138,8 @@ mvnw install
 mvnw spring-boot:run -pl backend
 ```
 
+I dont want confict
+
 W tym trybie frontend dostępny będzie pod adresem: http:\\localhost:8080\ui
 
 
