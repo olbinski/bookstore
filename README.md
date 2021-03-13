@@ -142,3 +142,6 @@ W tym trybie frontend dostępny będzie pod adresem: http:\\localhost:8080\ui
 
 
 Paragraf tekstu zmodyfikowany na lokalnym branchu master.
+
+
+Paragraf tekstu zmodyfikowany na lokalnym branchu master(zadanie 3). 
