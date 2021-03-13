@@ -139,3 +139,6 @@ mvnw spring-boot:run -pl backend
 ```
 
 W tym trybie frontend dostępny będzie pod adresem: http:\\localhost:8080\ui
+
+
+Paragraf tekstu zmodyfikowany na lokalnym branchu master.
