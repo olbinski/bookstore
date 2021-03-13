@@ -1,6 +1,6 @@
 # Repozytorium startowe dla listy nr 5/2021
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![CircleCI](https://circleci.com/gh/olbinski/bookstore.svg?style=svg&circle-token=7e9f82747c311b95fc34c2c2e870ef36144e9768)](<LINK>)
+[![CircleCI](https://circleci.com/gh/olbinski/bookstore.svg?style=svg&circle-token=7e9f82747c311b95fc34c2c2e870ef36144e9768)](https://circleci.com/gh/olbinski/bookstore)
 ## Jak używać?
 Projekt budujemy Mavenem, z użyciem komendy `mvnw`. Klasycznie:
 ```bash
