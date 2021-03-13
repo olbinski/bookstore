@@ -145,3 +145,5 @@ Paragraf tekstu zmodyfikowany na lokalnym branchu master.
 
 
 Paragraf tekstu zmodyfikowany na lokalnym branchu master(zadanie 3). 
+
+Paragraf tekstu zmodyfikowany na lokalnym branchu zadaniu 3
